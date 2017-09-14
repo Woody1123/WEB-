@@ -1,5 +1,7 @@
 ```
         /*
+            repository
+            仓库； 贮藏室； 博物馆； 亲信
             onclick 鼠标点击事件
             onchange 改变内容
             onfocus 得到焦点
