@@ -16,3 +16,4 @@ Preference  ->  Key Bindings -user
 中 括号内添加(比如添加：ctrl + alt + f)
  { "keys": ["ctrl+alt+f"], "command": "reindent" }
 view in browser 浏览器中打开
+CodeIntel 语法联想
