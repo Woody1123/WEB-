@@ -8,3 +8,10 @@ AdvancedNewFile 保存路径更改
 想要使用tab还需要在设置里面  
 "auto_complete": true,"auto_match_enabled": true
 autofilename 从外部引入文件
+Reindent  格式化
+其实在sublime中已经自建了格式化按钮：
+Edit  ->  Line  ->  Reindent  
+只是sublime并没有给他赋予快捷键，所以只需加上快捷键即可
+Preference  ->  Key Bindings -user 
+中 括号内添加(比如添加：ctrl + alt + f)
+ { "keys": ["ctrl+alt+f"], "command": "reindent" }
