@@ -5,3 +5,5 @@ jQuery
 SublimeLinter 排错
 alt+shift+2 变成两个框框
 AdvancedNewFile 保存路径更改
+想要使用tab还需要在设置里面  
+"auto_complete": true,"auto_match_enabled": true
