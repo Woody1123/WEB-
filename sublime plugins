@@ -20,3 +20,4 @@ CodeIntel 语法联想
 而想要将所有相同的扩展名每次打开都默认是同一种类型作为语法模版，
 可以选择最上面的 “Open all with current extension as…”，然后在弹出的面板中选择需要的类型。 
 sublime-snippet snippet 后缀名 默认打开方式为xml
+html5这个插件导致保存的时候很卡 
